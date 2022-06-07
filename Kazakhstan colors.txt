@@ -1,0 +1,18 @@
+<div class="slider-container">
+        <div class="left-slide">
+            <div style="background-color: #00AFCA">
+                <h1>First image</h1>
+                <p>all in blue</p>
+            </div>
+            <div style="background-color: #FEC50C">
+                <h1>Second image</h1>
+                <p>all in yellow</p>
+            </div>
+            <div style="background-color: #45b1e8">
+                <h1>Second image</h1>
+                <p>all in yellow</p>
+            </div>
+            <div style="background-color: #3cb371">
+                <h1>Second image</h1>
+                <p>all in yellow</p>
+            </div>
